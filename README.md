@@ -5,7 +5,7 @@ It showcases products in a clean, user-friendly interface with organized and res
 
 ---
 
-## ✨ Features
+##  Features
 
 - Attractive product cards with clean layout.
 - Fully responsive front-end design.
@@ -15,13 +15,13 @@ It showcases products in a clean, user-friendly interface with organized and res
 
 ---
 
-## 🌷 Live Demo
+##  Live Demo
 
 **View Project:** [Mariam’s Store](https://mariemmomdouh967-design.github.io/mariams-store/)
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML5** – structure and layout  
 - **CSS3** – styling and responsive design  
@@ -30,7 +30,7 @@ It showcases products in a clean, user-friendly interface with organized and res
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Developed by **Mariam Mamdouh**  
 **Email📧**: mariemmomdouh967@gmail.com Feel free to explore, fork, or star the repository!
