@@ -17,7 +17,7 @@ It showcases products in a clean, user-friendly interface with organized and res
 
 ## 🚀 Live Demo
 
-🔗 **View Project:** [Mariam’s Store](https://mariemmomdouh967-design.github.io/mariams-store/)
+**View Project:** [Mariam’s Store](https://mariemmomdouh967-design.github.io/mariams-store/)
 
 ---
 
@@ -32,6 +32,5 @@ It showcases products in a clean, user-friendly interface with organized and res
 
 ## 📬 Contact
 
-👩‍💻 Developed by **Mariam Mamdouh**  
-📧 Email: mariemmomdouh967@gmail.com  
-🌟 Feel free to explore, fork, or star the repository!
+Developed by **Mariam Mamdouh**  
+Email: mariemmomdouh967@gmail.com   Feel free to explore, fork, or star the repository!
