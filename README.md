@@ -7,15 +7,15 @@ It showcases products in a clean, user-friendly interface with organized and res
 
 ## ✨ Features
 
-- Attractive product cards with clean layout
-- Fully responsive front-end design 
-- Fast performance with optimized assets
-- Organized and readable code structure
+- Attractive product cards with clean layout.
+- Fully responsive front-end design.
+- Fast performance with optimized assets.
+- Organized and readable code structure.
 - Hosted live using GitHub Pages.
 
 ---
 
-## 🚀 Live Demo
+## 🌷 Live Demo
 
 **View Project:** [Mariam’s Store](https://mariemmomdouh967-design.github.io/mariams-store/)
 
