@@ -7,10 +7,10 @@ It showcases products in a clean, user-friendly interface with organized and res
 
 ## ✨ Features
 
-- Attractive product cards with clean layout  
-- Fully responsive front-end design  
-- Fast performance with optimized assets  
-- Organized and readable code structure  
+- Attractive product cards with clean layout
+- Fully responsive front-end design 
+- Fast performance with optimized assets
+- Organized and readable code structure 
 - Hosted live using GitHub Pages  
 
 ---
@@ -33,4 +33,4 @@ It showcases products in a clean, user-friendly interface with organized and res
 ## 📬 Contact
 
 Developed by **Mariam Mamdouh**  
-Email: mariemmomdouh967@gmail.com   Feel free to explore, fork, or star the repository!
+**Email**: mariemmomdouh967@gmail.com   Feel free to explore, fork, or star the repository!
