@@ -7,11 +7,11 @@ It showcases products in a clean, user-friendly interface with organized and res
 
 ## ✨ Features
 
-- Attractive product cards with clean layout
-- Fully responsive front-end design 
-- Fast performance with optimized assets
-- Organized and readable code structure 
-- Hosted live using GitHub Pages  
+- Attractive product cards with clean layout.
+- Fully responsive front-end design. 
+- Fast performance with optimized assets.
+- Organized and readable code structure. 
+- Hosted live using GitHub Pages.
 
 ---
 
