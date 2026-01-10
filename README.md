@@ -33,4 +33,4 @@ It showcases products in a clean, user-friendly interface with organized and res
 ## 📬 Contact
 
 Developed by **Mariam Mamdouh**  
-**Email**: mariemmomdouh967@gmail.com   Feel free to explore, fork, or star the repository!
+**Email📧**: mariemmomdouh967@gmail.com Feel free to explore, fork, or star the repository!
