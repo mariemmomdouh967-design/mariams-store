@@ -1,6 +1,6 @@
-# 🌸 Mariam's Store
+# 🌸 Vellora
 
-**Mariam's Store** is a modern and visually appealing online shop built using **HTML**, **CSS**, and **JavaScript**.  
+**Vellora** is a modern and visually appealing online shop built using **HTML**, **CSS**, and **JavaScript**.  
 It showcases products in a clean, user-friendly interface with organized and responsive design.
 
 ---
