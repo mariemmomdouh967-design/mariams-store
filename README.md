@@ -17,7 +17,7 @@ It showcases products in a clean, user-friendly interface with organized and res
 
 ## Live Demo
 
-**View Project:** [Mariam’s Store](https://mariemmomdouh967-design.github.io/mariams-store/)
+**View Project:** [Vellora](https://mariemmomdouh967-design.github.io/mariams-store/)
 
 ---
 
